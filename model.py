@@ -1,8 +1,5 @@
-# name : model.py
-# date : 26/03/2020
-# author : Claire Froessel
-# description: a ResNet 50 implementation. This code comes from Andrew Ng's online course on Convolutional Networks 
-# https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning#syllabus
+# I got this implementation from Andrew Ng's when I was taking the course on Convolutional Network. 
+# I only changed the last layer to match the multi-output problem.  
 
 def identity_block(X, f, filters, stage, block):
     """
