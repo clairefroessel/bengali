@@ -1,7 +1,6 @@
 # Bengali.AI
 
-<img src="./images/intro_pic.png" width="200" height="200" />
----
+<img src="./images/intro_pic.png" width="400" height="400" />
 
 ### Table of Contents
 
@@ -14,7 +13,7 @@
 
 ## Description
 
-This project is a Kaggle competition held in 2020. 
+This project was made for a Kaggle competition held in 2020. 
 
 We are given the image of a handwritten Bengali grapheme and are challenged to separately classify three constituent elements in the image: grapheme root, vowel diacritics, and consonant diacritics.
 
@@ -34,7 +33,7 @@ All the data are available here : https://www.kaggle.com/c/bengaliai-cv19/data
 
 ## How to use
 
-This code works with both Python 2.7 or >3.4, although it requires some additional packages such as Pandas, Numpy, opencv etc. I recommend using Anaconda python, and conda to install these.
+This code works with Python >3.4, although it requires some additional packages such as Pandas, Numpy, opencv etc. I recommend using Anaconda python, and conda to install these.
 
 ---
 
