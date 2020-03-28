@@ -23,7 +23,7 @@ I used a Residual Network (ResNet-50). The only change I made to the below archi
 
 Also you can see in this repository how to do data augmentation using Keras, such as cutmix.
 
-The performance of the model is 92% of recall (this is the metric used for the competition).
+The performance of the model is 92% of recall (hierarchical macro-averaged - this is the metric used for the competition you can check here for more information : https://www.kaggle.com/c/bengaliai-cv19/overview/evaluation).
 
 ## Data
 
