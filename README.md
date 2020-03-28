@@ -1,7 +1,6 @@
 # Bengali.AI
 
-![Project Image](./intro_pic.png)
-
+<img src="./intro_pic.png" width="200" height="200" />
 ---
 
 ### Table of Contents
@@ -21,7 +20,7 @@ We are given the image of a handwritten Bengali grapheme and are challenged to s
 
 I used a Residual Network (ResNet-50). The only change I made to the below architecture is deviding the final layer into 3 to answer to that challenge.
 
-![Model Image](./resnet50.png)
+<img src="./resnet50.png" width="600" height="400" />
 
 Also you can see in this repository how to do data augmentation using Keras, such as cutmix.
 
